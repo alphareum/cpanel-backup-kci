@@ -1,0 +1,31 @@
+@"
+# cPanel Backup (komuni60)
+This repo stores **private** backups from cPanel. Do not publish publicly.
+"@ | Out-File -Encoding utf8 .\README.md
+
+@"
+# Never commit secrets
+.env
+.env.*
+*.key
+*.pem
+*.crt
+*.pfx
+
+# Common app stuff
+node_modules/
+vendor/
+storage/
+tmp/
+cache/
+logs/
+*.log
+
+# cPanel patterns (adjust as needed)
+public_html/error_log
+public_html/*/error_log
+backup-*.tar
+*.tar
+*.tar.gz
+*.bak
+"@ | Out-File -Encoding ascii .\.gitignore
