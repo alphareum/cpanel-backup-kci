@@ -1,0 +1,6 @@
+{
+  "status": 404,
+  "headers": {
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/(public)/layout,_N_T_/(public)/blog/layout,_N_T_/(public)/blog/[slug]-disabled/layout,_N_T_/(public)/blog/[slug]-disabled/page,_N_T_/blog/[slug]-disabled"
+  }
+}

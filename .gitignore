@@ -1,10 +1,4 @@
-@"
-# cPanel Backup (komuni60)
-This repo stores **private** backups from cPanel. Do not publish publicly.
-"@ | Out-File -Encoding utf8 .\README.md
-
-@"
-# Never commit secrets
+# Secrets / keys
 .env
 .env.*
 *.key
@@ -12,20 +6,21 @@ This repo stores **private** backups from cPanel. Do not publish publicly.
 *.crt
 *.pfx
 
-# Common app stuff
-node_modules/
-vendor/
+# Logs & caches
+*.log
+logs/
 storage/
 tmp/
 cache/
-logs/
-*.log
 
-# cPanel patterns (adjust as needed)
-public_html/error_log
+# Node / PHP common
+node_modules/
+vendor/
+
+# cPanel noise
 public_html/*/error_log
+error_log
 backup-*.tar
 *.tar
 *.tar.gz
 *.bak
-"@ | Out-File -Encoding ascii .\.gitignore

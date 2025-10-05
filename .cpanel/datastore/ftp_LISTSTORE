@@ -1,0 +1,1 @@
+{"mode":"simple","statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","version":"2.4","status":1,"timeout":0,"data":[{"user":"komuni60","homedir":"/home/komuni60","type":"main"},{"homedir":"/etc/apache2/logs/domlogs/komuni60","type":"logaccess","user":"komuni60_logs"}],"exit_code":0,"error":0,"action":"fetch"}

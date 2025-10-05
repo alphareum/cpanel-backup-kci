@@ -1,0 +1,21 @@
+RewriteEngine On
+# Force HTTPS only for the API host
+RewriteCond %{HTTP_HOST} ^api\.komunitaschineseindonesia\.com$ [NC]
+RewriteCond %{HTTPS} !=on
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/komuni60/kci-api"
+PassengerBaseURI "/"
+PassengerNodejs "/home/komuni60/nodevenv/kci-api/20/bin/node"
+PassengerAppType node
+PassengerStartupFile dist/index.js
+PassengerAppLogFile "/home/komuni60/logs/passenger.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
+# DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION BEGIN
+<IfModule Litespeed>
+SetEnv NODE_ENV production
+SetEnv DATA_DIR /home/komuni60/kci-api/data
+</IfModule>
+# DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION END
+# Don't proxy the static CMS
+RewriteCond %{REQUEST_URI} !^/cms/ 

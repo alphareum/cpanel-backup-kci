@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "email": "admin@example.com",
+    "full_name": "Site Owner",
+    "role": "owner",
+    "password_hash": "4a98bb1c913a03d6203767ac889f8ac5:4aaf84c777cea6191b38ecde83dc51b1ce809c853986e2c720c84c2d48795b8ed7827177c52374696131fa71ed2d47c9c42925027524e8d3432d83e959eebecb",
+    "last_login_at": "2025-09-27T11:09:03.079Z"
+  },
+  {
+    "id": 2,
+    "email": "admin@komunitaschineseindonesia.com",
+    "full_name": "Admin",
+    "role": "owner",
+    "password_hash": "c8e31aa4bec646dadf525dc58909a134:6c0e1de44668d5f2a8c7718a6b7c9b14876f00d7d3b8c703910c5460b3cbfa226ac20747fb940c40f50d7ef9ed9746d6e6932bacbd8d7c0015928a6cca612b3b",
+    "last_login_at": null
+  }
+]

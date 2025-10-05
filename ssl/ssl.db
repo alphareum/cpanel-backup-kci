@@ -1,0 +1,126 @@
+--- 
+files: 
+  certificate: 
+    _wildcard__komunitaschineseindonesia_com_f62a1_dea11_1766935750_aa257fe84df821d536c89049ae209fd7: 
+      created: '1759163262'
+      domains: 
+        - "*.api.komunitaschineseindonesia.com"
+        - "*.komunitaschineseindonesia.com"
+        - komunitaschineseindonesia.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “komunitaschineseindonesia.com” 1759163262.0
+      id: _wildcard__komunitaschineseindonesia_com_f62a1_dea11_1766935750_aa257fe84df821d536c89049ae209fd7
+      is_self_signed: 0
+      issuer.commonName: R12
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: f62a1d3f49df50ec07f33d84d856270c42a63dfc6e9bf3b48a2baefe84c92f0c824500d08d41f9037ed5b7db00d235d82b22685b3b1d60f2add2f2b726b46eeb021040b1a07846ac9dd6a2905bdda749e880edd501d9da0d8eafeeb7c50c61810ec2371825e20f2063509d4965a388d3810cd8de3d0f930f44ec2e265add270dbf6552613f2638aec805ef548eb5c05ec571ac7885759664f93dec94631024de5b95c49b424fb0d8c7a51346619e9795670438bf485bba189dc8c5ee39758443ce3f7f4481b2911a5873a47ad1053bfaa8afa26bc6eadfe41cd8c8ba643ebc2a58f1f2f739a2c813504984afcc40b0fc56ae57e4ea1faba08cf3b9d6962dea11
+      modulus_length: 2048
+      not_after: '1766935750'
+      not_before: '1759159751'
+      serial: 0519f65c6492e2477dd6318812cb6745019f
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.komunitaschineseindonesia.com"
+      validation_type: dv
+    komunitaschineseindonesia_com_9f637_7c5a1_1766079548_3b16915123dbfe317f326829450471ff: 
+      created: '1758307060'
+      domains: 
+        - "*.komunitaschineseindonesia.com"
+        - komunitaschineseindonesia.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “komunitaschineseindonesia.com” 1758307060.0
+      id: komunitaschineseindonesia_com_9f637_7c5a1_1766079548_3b16915123dbfe317f326829450471ff
+      is_self_signed: 0
+      issuer.commonName: R13
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: 9f63758f583adc1c35e3ded28e2daffe251a552f5b9c5dc57cdb5291945ab81efb4025e43e92142322e13072e381e6cc8f774a5e451d64dd37c0d775a778c3a59d5b7983826348dac4e7a6a9ac9bb5b36b4e4d31db02836b7ce662978a1a9d9fb33f37c6090da09fa144caa338af9fb27b0bf906010f725b9cf276cc59aca072e955b38b233312ded6f0cb9dc40362dcbe9ae7c0c3a2725940230e24dfc8800510cb5eac271b3e29bf2f01ba8564b19754eb2cec263968d568635ca6dafce9917b12f27ee594e2178f01b511db80ac983cf992549a283cb0b245f1d9dd09b522558cf0fe970ee5ab7ef6469efe9cad078c47ef741e89fc6aab9649df6847c5a1
+      modulus_length: 2048
+      not_after: '1766079548'
+      not_before: '1758303549'
+      serial: 0692a3b75d90e4162bd27a1c42841ae47c31
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: komunitaschineseindonesia.com
+      validation_type: dv
+    komunitaschineseindonesia_com_bcd34_6fa49_1789835838_86384f9486c064cc291b67c752f220af: 
+      created: '1758299838'
+      domains: 
+        - komunitaschineseindonesia.com
+        - www.komunitaschineseindonesia.com
+        - mail.komunitaschineseindonesia.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “komunitaschineseindonesia.com”
+      id: komunitaschineseindonesia_com_bcd34_6fa49_1789835838_86384f9486c064cc291b67c752f220af
+      is_self_signed: 1
+      issuer.commonName: komunitaschineseindonesia.com
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: bcd34f4ed8d2758488cf2e5c8ebbbbf2f8d70f558b426939088525fdbae7db8354a5166d1a57709145a0cc47210dd093fb7d725867ac8dbb0b56e7d09b3f807ade15f162256e0fd74eec1a9aac34ef5250cbcc3d1e87500d8130d3d510aefa55c5abf37b444265986f151a856d1f0b2919d81aacf1825d4ff3781fdb10ccecd4e53845aa52eaedcc82410ab20b7ab284c315561a0eee1b502db858bcb26d286e3daac36f374884fb2517b2eca3bcf94344cc5a60fbdd534f4878b0f25682cd83a440381d1022a8241200bf07bf38ca0029c6fc2222f8a2817ce9239e6ba4e83d18e177e4816decaccf455879274020961bd3f046d04a802e61241404d916fa49
+      modulus_length: 2048
+      not_after: '1789835838'
+      not_before: '1758299838'
+      serial: 01d67890a0
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: komunitaschineseindonesia.com
+      validation_type: ~
+  key: 
+    9f637_7c5a1_65c84231303aade0bd5ded0ef833a3c4: 
+      created: '1758307060'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “komunitaschineseindonesia.com” 1758307060.0
+      id: 9f637_7c5a1_65c84231303aade0bd5ded0ef833a3c4
+      key_algorithm: rsaEncryption
+      modulus: 9f63758f583adc1c35e3ded28e2daffe251a552f5b9c5dc57cdb5291945ab81efb4025e43e92142322e13072e381e6cc8f774a5e451d64dd37c0d775a778c3a59d5b7983826348dac4e7a6a9ac9bb5b36b4e4d31db02836b7ce662978a1a9d9fb33f37c6090da09fa144caa338af9fb27b0bf906010f725b9cf276cc59aca072e955b38b233312ded6f0cb9dc40362dcbe9ae7c0c3a2725940230e24dfc8800510cb5eac271b3e29bf2f01ba8564b19754eb2cec263968d568635ca6dafce9917b12f27ee594e2178f01b511db80ac983cf992549a283cb0b245f1d9dd09b522558cf0fe970ee5ab7ef6469efe9cad078c47ef741e89fc6aab9649df6847c5a1
+      modulus_length: 2048
+    bcd34_6fa49_77f7e1092fbde3d9cc641f2954d7899a: 
+      created: '1758299838'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “komunitaschineseindonesia.com”
+      id: bcd34_6fa49_77f7e1092fbde3d9cc641f2954d7899a
+      key_algorithm: rsaEncryption
+      modulus: bcd34f4ed8d2758488cf2e5c8ebbbbf2f8d70f558b426939088525fdbae7db8354a5166d1a57709145a0cc47210dd093fb7d725867ac8dbb0b56e7d09b3f807ade15f162256e0fd74eec1a9aac34ef5250cbcc3d1e87500d8130d3d510aefa55c5abf37b444265986f151a856d1f0b2919d81aacf1825d4ff3781fdb10ccecd4e53845aa52eaedcc82410ab20b7ab284c315561a0eee1b502db858bcb26d286e3daac36f374884fb2517b2eca3bcf94344cc5a60fbdd534f4878b0f25682cd83a440381d1022a8241200bf07bf38ca0029c6fc2222f8a2817ce9239e6ba4e83d18e177e4816decaccf455879274020961bd3f046d04a802e61241404d916fa49
+      modulus_length: 2048
+    f62a1_dea11_0be67c5febcf83e0c2590e4bea4d2c36: 
+      created: '1759163262'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “komunitaschineseindonesia.com” 1759163262.0
+      id: f62a1_dea11_0be67c5febcf83e0c2590e4bea4d2c36
+      key_algorithm: rsaEncryption
+      modulus: f62a1d3f49df50ec07f33d84d856270c42a63dfc6e9bf3b48a2baefe84c92f0c824500d08d41f9037ed5b7db00d235d82b22685b3b1d60f2add2f2b726b46eeb021040b1a07846ac9dd6a2905bdda749e880edd501d9da0d8eafeeb7c50c61810ec2371825e20f2063509d4965a388d3810cd8de3d0f930f44ec2e265add270dbf6552613f2638aec805ef548eb5c05ec571ac7885759664f93dec94631024de5b95c49b424fb0d8c7a51346619e9795670438bf485bba189dc8c5ee39758443ce3f7f4481b2911a5873a47ad1053bfaa8afa26bc6eadfe41cd8c8ba643ebc2a58f1f2f739a2c813504984afcc40b0fc56ae57e4ea1faba08cf3b9d6962dea11
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      9f63758f583adc1c35e3ded28e2daffe251a552f5b9c5dc57cdb5291945ab81efb4025e43e92142322e13072e381e6cc8f774a5e451d64dd37c0d775a778c3a59d5b7983826348dac4e7a6a9ac9bb5b36b4e4d31db02836b7ce662978a1a9d9fb33f37c6090da09fa144caa338af9fb27b0bf906010f725b9cf276cc59aca072e955b38b233312ded6f0cb9dc40362dcbe9ae7c0c3a2725940230e24dfc8800510cb5eac271b3e29bf2f01ba8564b19754eb2cec263968d568635ca6dafce9917b12f27ee594e2178f01b511db80ac983cf992549a283cb0b245f1d9dd09b522558cf0fe970ee5ab7ef6469efe9cad078c47ef741e89fc6aab9649df6847c5a1: 
+        komunitaschineseindonesia_com_9f637_7c5a1_1766079548_3b16915123dbfe317f326829450471ff: ~
+      bcd34f4ed8d2758488cf2e5c8ebbbbf2f8d70f558b426939088525fdbae7db8354a5166d1a57709145a0cc47210dd093fb7d725867ac8dbb0b56e7d09b3f807ade15f162256e0fd74eec1a9aac34ef5250cbcc3d1e87500d8130d3d510aefa55c5abf37b444265986f151a856d1f0b2919d81aacf1825d4ff3781fdb10ccecd4e53845aa52eaedcc82410ab20b7ab284c315561a0eee1b502db858bcb26d286e3daac36f374884fb2517b2eca3bcf94344cc5a60fbdd534f4878b0f25682cd83a440381d1022a8241200bf07bf38ca0029c6fc2222f8a2817ce9239e6ba4e83d18e177e4816decaccf455879274020961bd3f046d04a802e61241404d916fa49: 
+        komunitaschineseindonesia_com_bcd34_6fa49_1789835838_86384f9486c064cc291b67c752f220af: ~
+      f62a1d3f49df50ec07f33d84d856270c42a63dfc6e9bf3b48a2baefe84c92f0c824500d08d41f9037ed5b7db00d235d82b22685b3b1d60f2add2f2b726b46eeb021040b1a07846ac9dd6a2905bdda749e880edd501d9da0d8eafeeb7c50c61810ec2371825e20f2063509d4965a388d3810cd8de3d0f930f44ec2e265add270dbf6552613f2638aec805ef548eb5c05ec571ac7885759664f93dec94631024de5b95c49b424fb0d8c7a51346619e9795670438bf485bba189dc8c5ee39758443ce3f7f4481b2911a5873a47ad1053bfaa8afa26bc6eadfe41cd8c8ba643ebc2a58f1f2f739a2c813504984afcc40b0fc56ae57e4ea1faba08cf3b9d6962dea11: 
+        _wildcard__komunitaschineseindonesia_com_f62a1_dea11_1766935750_aa257fe84df821d536c89049ae209fd7: ~
+    subject.commonName: 
+      "*.komunitaschineseindonesia.com": 
+        _wildcard__komunitaschineseindonesia_com_f62a1_dea11_1766935750_aa257fe84df821d536c89049ae209fd7: ~
+      komunitaschineseindonesia.com: 
+        komunitaschineseindonesia_com_9f637_7c5a1_1766079548_3b16915123dbfe317f326829450471ff: ~
+        komunitaschineseindonesia_com_bcd34_6fa49_1789835838_86384f9486c064cc291b67c752f220af: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “komunitaschineseindonesia.com”: komunitaschineseindonesia_com_bcd34_6fa49_1789835838_86384f9486c064cc291b67c752f220af
+      Cert for “komunitaschineseindonesia.com” 1758307060.0: komunitaschineseindonesia_com_9f637_7c5a1_1766079548_3b16915123dbfe317f326829450471ff
+      Cert for “komunitaschineseindonesia.com” 1759163262.0: _wildcard__komunitaschineseindonesia_com_f62a1_dea11_1766935750_aa257fe84df821d536c89049ae209fd7
+  key: 
+    friendly_name: 
+      Key for “komunitaschineseindonesia.com”: bcd34_6fa49_77f7e1092fbde3d9cc641f2954d7899a
+      Key for “komunitaschineseindonesia.com” 1758307060.0: 9f637_7c5a1_65c84231303aade0bd5ded0ef833a3c4
+      Key for “komunitaschineseindonesia.com” 1759163262.0: f62a1_dea11_0be67c5febcf83e0c2590e4bea4d2c36
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      9f63758f583adc1c35e3ded28e2daffe251a552f5b9c5dc57cdb5291945ab81efb4025e43e92142322e13072e381e6cc8f774a5e451d64dd37c0d775a778c3a59d5b7983826348dac4e7a6a9ac9bb5b36b4e4d31db02836b7ce662978a1a9d9fb33f37c6090da09fa144caa338af9fb27b0bf906010f725b9cf276cc59aca072e955b38b233312ded6f0cb9dc40362dcbe9ae7c0c3a2725940230e24dfc8800510cb5eac271b3e29bf2f01ba8564b19754eb2cec263968d568635ca6dafce9917b12f27ee594e2178f01b511db80ac983cf992549a283cb0b245f1d9dd09b522558cf0fe970ee5ab7ef6469efe9cad078c47ef741e89fc6aab9649df6847c5a1: 9f637_7c5a1_65c84231303aade0bd5ded0ef833a3c4
+      bcd34f4ed8d2758488cf2e5c8ebbbbf2f8d70f558b426939088525fdbae7db8354a5166d1a57709145a0cc47210dd093fb7d725867ac8dbb0b56e7d09b3f807ade15f162256e0fd74eec1a9aac34ef5250cbcc3d1e87500d8130d3d510aefa55c5abf37b444265986f151a856d1f0b2919d81aacf1825d4ff3781fdb10ccecd4e53845aa52eaedcc82410ab20b7ab284c315561a0eee1b502db858bcb26d286e3daac36f374884fb2517b2eca3bcf94344cc5a60fbdd534f4878b0f25682cd83a440381d1022a8241200bf07bf38ca0029c6fc2222f8a2817ce9239e6ba4e83d18e177e4816decaccf455879274020961bd3f046d04a802e61241404d916fa49: bcd34_6fa49_77f7e1092fbde3d9cc641f2954d7899a
+      f62a1d3f49df50ec07f33d84d856270c42a63dfc6e9bf3b48a2baefe84c92f0c824500d08d41f9037ed5b7db00d235d82b22685b3b1d60f2add2f2b726b46eeb021040b1a07846ac9dd6a2905bdda749e880edd501d9da0d8eafeeb7c50c61810ec2371825e20f2063509d4965a388d3810cd8de3d0f930f44ec2e265add270dbf6552613f2638aec805ef548eb5c05ec571ac7885759664f93dec94631024de5b95c49b424fb0d8c7a51346619e9795670438bf485bba189dc8c5ee39758443ce3f7f4481b2911a5873a47ad1053bfaa8afa26bc6eadfe41cd8c8ba643ebc2a58f1f2f739a2c813504984afcc40b0fc56ae57e4ea1faba08cf3b9d6962dea11: f62a1_dea11_0be67c5febcf83e0c2590e4bea4d2c36

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "type": "gallery",
+    "title": "Kereta Komuter",
+    "description": "Peremajaan armada KRL Jabodetabek.",
+    "asset_url": "https://images.example.com/gallery/krl-revamp.jpg",
+    "metadata": null,
+    "created_at": "2024-01-05T08:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "type": "testimonial",
+    "title": "Pengguna KCI",
+    "description": "Komunitasnya bagus",
+    "asset_url": "https://images.example.com/testimonial/customer-1.jpg",
+    "metadata": null,
+    "created_at": "2024-02-14T03:21:00.000Z"
+  },
+  {
+    "id": 3,
+    "type": "partner",
+    "title": "PT KAI",
+    "description": "Sinergi layanan perkeretaapian nasional.",
+    "asset_url": "https://images.example.com/partners/pt-kai.png",
+    "metadata": null,
+    "created_at": "2024-03-01T10:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "type": "gallery",
+    "title": "you've_been_pwned",
+    "description": "a",
+    "asset_url": "/uploads/gallery/1759243929648-90e03490-921c-4abf-aabc-84e97c1f68fc.jpg",
+    "metadata": {
+      "uploaded_file_url": "/uploads/gallery/1759243929648-90e03490-921c-4abf-aabc-84e97c1f68fc.jpg",
+      "original_filename": "WhatsApp Image 2025-08-12 at 13.23.53_c42e66f3.jpg",
+      "upload_mime_type": "image/jpeg",
+      "upload_file_size": "40640",
+      "upload_storage": "local",
+      "upload_storage_key": "gallery/1759243929648-90e03490-921c-4abf-aabc-84e97c1f68fc.jpg",
+      "upload_folder": "gallery"
+    },
+    "created_at": "2025-09-30T14:52:28.717Z"
+  },
+  {
+    "id": 5,
+    "type": "gallery",
+    "title": "test 1",
+    "description": null,
+    "asset_url": "/uploads/gallery/1759394025052-02c2ecf3-e56e-4741-bd39-d5fbef233d2d.png",
+    "metadata": null,
+    "created_at": "2025-10-02T08:33:51.204Z"
+  },
+  {
+    "id": 6,
+    "type": "gallery",
+    "title": "test 2",
+    "description": "x",
+    "asset_url": "/uploads/gallery/1759483838755-8f2fe84c-1593-4c0a-b870-82d6ff183014.png",
+    "metadata": {
+      "uploaded_file_url": "/uploads/gallery/1759483838755-8f2fe84c-1593-4c0a-b870-82d6ff183014.png",
+      "original_filename": "Tangkapan Layar 2025-10-02 pukul 00.07.54.png",
+      "upload_mime_type": "image/png",
+      "upload_file_size": "2332551",
+      "upload_storage": "local",
+      "upload_storage_key": "gallery/1759483838755-8f2fe84c-1593-4c0a-b870-82d6ff183014.png",
+      "upload_folder": "gallery"
+    },
+    "created_at": "2025-10-03T09:30:47.206Z"
+  }
+]

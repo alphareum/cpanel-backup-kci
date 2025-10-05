@@ -1,0 +1,16 @@
+{
+    "kci-api": {
+        "app_mode": "production",
+        "app_status": "started",
+        "app_uri": "",
+        "config_files": [],
+        "domain": "komunitaschineseindonesia.com",
+        "env_vars": {
+            "DATA_DIR": "/home/komuni60/kci-api/data",
+            "NODE_ENV": "production"
+        },
+        "nodejs_version": "20",
+        "passenger_log_file": "/home/komuni60/logs/passenger.log",
+        "startup_file": "dist/index.js"
+    }
+}

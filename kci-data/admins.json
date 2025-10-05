@@ -1,0 +1,10 @@
+[
+  {
+    "id": 3,
+    "email": "admin@komunitaschineseindonesia.com",
+    "full_name": "Admin",
+    "role": "owner",
+    "password_hash": "1ddc058a8542c19f87371fbe19fce467:608ccc5195970bfe57f7c687668fe4c53bdc6db2c8abf4d0d15223a0572d303a1f75c61023018e0660927de2979ab915760bba22a5fb964ee2189010f2736497",
+    "last_login_at": null
+  }
+]

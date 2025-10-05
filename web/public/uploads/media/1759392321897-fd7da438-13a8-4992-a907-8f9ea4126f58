@@ -1,0 +1,11 @@
+127.0.0.1		localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1		localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+# BEGIN ANSIBLE MANAGED BLOCK
+103.147.154.39		softa.storage
+192.168.0.30		nas.jkt1
+10.10.0.2		nas.jkt2
+192.168.110.2		kotabaru
+# END ANSIBLE MANAGED BLOCK
+
+202.155.132.23		ankama.id.rapidplex.com ankama
