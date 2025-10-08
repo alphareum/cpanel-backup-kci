@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/alpha/OneDrive/Documents/GitHub/website-kci/apps/api/**)",
+      "Bash(npm run build:*)",
+      "Bash(tar:*)",
+      "Bash(test:*)",
+      "Bash(npm install:*)",
+      "Bash(xcopy:*)",
+      "Bash(robocopy:*)",
+      "Read(//c/Users/alpha/OneDrive/Documents/GitHub/kci-zenith/**)",
+      "Bash(npx tsc:*)",
+      "Bash(cat:*)",
+      "Bash(npm run dev:*)",
+      "Bash(curl:*)",
+      "Bash(dir:*)",
+      "Bash(npm run dev:api:*)",
+      "Read(//c/Users/alpha/OneDrive/Documents/GitHub/website-kci/**)",
+      "Bash(python:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
